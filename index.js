@@ -1,4 +1,4 @@
-earnfunction add(x, y){
+function add(x, y){
   return x + y
 }
 
